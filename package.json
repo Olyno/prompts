@@ -4,6 +4,7 @@
   "description": "Lightweight, beautiful and user-friendly prompts",
   "license": "MIT",
   "repository": "terkelg/prompts",
+  "type": "module",
   "main": "index.js",
   "author": {
     "name": "Terkel Gjervig",
